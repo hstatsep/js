@@ -1,10 +1,14 @@
 # js
 
 ## Instructions
-1.  In your terminal, do `git clone https://github.com/hstatsep/js.git` to clone this repository
-2.  In your terminal, do `cd js` to get into the `js` folder
+1. In your terminal, do `git clone https://github.com/hstatsep/js.git` to clone this repository
+2. In your terminal, do `cd js` to get into the `js` folder
+3. In your terminal, do `rm -rf .git` to "turn off" git in this folder.
 
 ## Files/Folders
+* `learning` is a folder for organizing classwork, assignments, etc.
+* `practice` is a folder for when you want to try something small
+* `projects` is a folder for your when you want to make something large
 * `templateFile.html` is a standalone template file to duplicate in order to practice small concepts
   * to duplicate, use `cp templateFile.html practice/newFileName.html`
 * `templateFolder` is a template folder to duplicate in order to make large projects
