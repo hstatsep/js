@@ -1,7 +1,7 @@
 # js
 
 ## Instructions
-1. In your terminal, do `git clone https://github.com/hstatsep/js.git` to clone this repository
+1. In your terminal, do `git clone git@github.com:hstatsep/js.git` to clone this repository
 2. In your terminal, do `cd js` to get into the `js` folder
 3. In your terminal, do `rm -rf .git` to "turn off" git in this folder.
 
