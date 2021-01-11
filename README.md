@@ -23,7 +23,7 @@
     * Windows/Chromebook: <kbd>Control</kbd> + <kbd>Shift</kbd> + J
   * right-click > inspect > switch to **console** tab
   * three-dots in the top-right corner > More tools > Developer Tools > **console** tab
-* More information [here](https://developers.google.com/web/tools/chrome-devtools/console/javascript#:~:text=Press%20Command%20%2B%20Option%20%2B%20J%20(,here%20on%20this%20very%20page.)
+* More information [here](https://developers.google.com/web/tools/chrome-devtools/console/javascript)
 
 ## Git alias commands
 * Copy/paste the following into the terminal.
