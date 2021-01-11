@@ -17,7 +17,8 @@
   * to duplicate, use `cp -r templateFolder projects/newProjectName`
 
 ## Console
-* In order to see errors and results of `console.log()`, you can do one of the following:
+* In order to see errors and results of `console.log()`, first preview the HTML file.
+* Then, you can do one of the following:
   * keyboard shortcut:
     * Mac: <kbd>Command</kbd> + <kbd>Option</kbd> + J
     * Windows/Chromebook: <kbd>Control</kbd> + <kbd>Shift</kbd> + J
