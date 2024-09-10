@@ -6,7 +6,7 @@ In your terminal, copy paste the code below to clone this repository and turn of
 git clone git@github.com:hstatsep/js.git
 cd js
 rm -rf .git
-echo
+echo "Done"
 
 ```
 
