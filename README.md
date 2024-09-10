@@ -2,7 +2,7 @@
 
 ## Setup
 In your terminal, copy paste the code below to clone this repository and turn off `git` so that it's simply a copy of the folder structure in your IDE. You will NOT be able to push.
-```bash
+```
 git clone git@github.com:hstatsep/js.git
 cd js
 rm -rf .git
